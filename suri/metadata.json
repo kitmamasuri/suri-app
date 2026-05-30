@@ -1,0 +1,6 @@
+{
+  "name": "Suri",
+  "description": "A calming, premium wellness-style first period companion app for young adolescents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
